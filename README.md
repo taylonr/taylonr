@@ -1,6 +1,5 @@
 # Presuppositions
 
----
 
 Let's start by talking about some of my presuppositions. Although, if I explicitly talk about them, are they presuppositions anymore? 🤔 Regardless, I think it's important to call them out. 
 
@@ -16,7 +15,6 @@ My final presupposition isn't so much a presupposition as it is a fact: **I will
 
 # Availability
 
----
 
 Availability is an important topic, even more so as the industry shifts to various working situations (remote, hybrid, in office, etc).
 
@@ -36,7 +34,6 @@ I might also (lovingly) call you on it if you do respond outside of hours. You r
 
 # One-on-Ones
 
----
 
 I'm a firm believer in 1-on-1s. I think it's a great chance for us to connect regularly and discuss things that are on your mind, or things that might be happening around you. That said, I leave the definition of "regular" largely up to you. I'll own scheduling the meeting (see Misc & Quirks below for why), but I'll set up the frequency and duration based on what you want.
 
@@ -48,7 +45,6 @@ What you want to talk about is more important than anything I have
 
 # My motivations
 
----
 
 I want to give you a bit of glimpse into who I am so you have a bit of an understanding. I **do not** expect this to be a replacement to conversations we'll have going forward, but instead just a little background information or character development.
 
@@ -60,7 +56,6 @@ Finally, I'm motivated by the fact that engineering can change lives and I think
 
 # My Strengths
 
----
 
 As I said earlier, we're both real people with real lives. That means I've got some strengths, and also some things I'm working on. To start, I like how the Gallup Strength Finder defined my strengths. I don't know my Meyers Briggs acronym. I do know I'm an enneagram 9, although if I'm honest I'm not entirely sure what that means.
 
@@ -78,7 +73,6 @@ While Gallup didn't test for this, I'd say sarcasm and dry humor might be a stre
 
 # What I'm Working On
 
----
 
 Ok so those are my strengths, what am I working on right now? I'm working on **understanding emotions**. Which is a little vague. I understand what happy means, and what angry means. And I don't mean I'm trying to understand the source of emotions (although that might be cool to learn.) I'm more working on trying to understand what am I actually feeling and what are you actually feeling. I've found the `Mood Meter` that Marc Brackett developed and discussed in his book Permission to Feel to be quite helpful. It asks 2 questions, 1) Are you high or low energy? 2) Are you high or low pleasantness? And from there you can identify the quadrant you're in.
 
@@ -86,7 +80,6 @@ Something else I'm trying to get better at is not saying "you guys." A couple ye
 
 # Miscellanies and Quirks
 
----
 
 We're almost over, I promise. I wanted to share a couple of my quirks or things I want you to know about me.
 
