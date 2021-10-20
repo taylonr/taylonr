@@ -1,63 +1,103 @@
-Before you read any further, there's a couple quotes that will likely help you understand the rest of this document, and me in general.
+# Presuppositions
 
-> Nate's humor is dry. Nate's humor makes the Sahara look like a tropical paradise
-> 
+---
 
-— Art Doler (Former Coworker)
+Let's start by talking about some of my presuppositions. Although, if I explicitly talk about them, are they presuppositions anymore? 🤔 Regardless, I think it's important to call them out. 
 
-> You're not funny
-> 
+First of all, I recognize that **you are an individual**. This carries a lot of meaning. It means that you will have a different definition of success and a different path to get there than others. Personally, I prefer the `lazy river` path to career growth, but that's for **me** not for you. But being an individual also means you're going to have different likes and dislikes than others. For example, I was able to be an engineer for 20+ years without being a fan of Star (Wars|Trek).
 
-— Becci (my wife)
+In addition to being an individual, I also want to recognize that we are both **real people with lives beyond work.** That means we will be impacted by our friends, our family, our pets, our community and the world around us. I don't expect you to stop being a person just because you're "on the clock."
 
-> You always take the hard way, don't you?
-> 
+Next, I'm assuming that you **want to be here** and that you **want to be doing a good job**. You might not *always* want to be here, and you might not *always* be doing a good job. But I'll assume that in general both of those things are true.
 
-— My dad
+Moving beyond you, and looking at our industry I want you to know that I have a **high view of engineering**. I've seen first hand how technology can change lives. Not to get too deep too quick, but at the end of my mom's life the only way she was able to communicate was with a computer that tracked her eye movement. The work we do can literally change the world.
 
-Something else to keep in mind, is that my humor is largely for me. I'm ok if you don't think it's funny, I'm entertained 🤣
+My final presupposition isn't so much a presupposition as it is a fact: **I will make mistakes**. (So will you.) That said, it's never fun, and rarely easy, but I will own my mistakes. 
 
-### Influences
+# Availability
 
-Of note in those quotes above, beyond the actual quote, is that those are just regular people. Which is where I've been influenced the most in my life. Every once in a while I'll see some quote or piece of wisdom from someone of note that makes me think or that changes how I live, but I'm who I am today thanks in large part due to my family, former classmates and former co-workers, of whom I'm sure you've never heard of.
+---
 
-For example, I once worked briefly with a man named **Fred Kabel**. He was a software engineer that worked for my dad (oh yeah, I come from an engineering family.) Before he worked for my dad, he worked for [Cray](https://en.wikipedia.org/wiki/Cray) (the supercomputer people) and wrote software for them. He was *really* smart, yet he was a very humble and relatable person. **I learned you can be smart, get things done and not have to show off in the process.**
+Availability is an important topic, even more so as the industry shifts to various working situations (remote, hybrid, in office, etc).
 
-In high school I also worked at a pharmacy my family had been using since before I was born. The pharmacist was a man by the name of **Craig Leonard**. One time he sat me down and said "Do you see that you're on the clock for 3 hours and it doesn't take 3 hours to do everything you need to do?  I also see that. I did it on purpose. I need to you do your tasks when they're not disrupting the flow of the store."  He taught me that the phrase **if you've got time to lean, you've got time to clean** doesn't apply in professional settings. Do the job right in a way that helps the team.
+**I typically work from about 8am to about 5pm Central time**. I'm getting much better at leaving work when I leave work. 
 
-About 15 years later I was working in IT, writing quoting software for a manufacturing company. Most of my users were internal and one time I went to my friend, and director of IT, **Mike Altamore** and I said, sarcastically, "Don't you just love our users?" To which he said "Yes. Because without them I don't have a job." That comment hit me in the face. I wanted to vent and complain (and he listened when I did) but **he reminded me that I'm not working just to work. I'm working to achieve something. And that "something" benefits a user**.
+I have notifications on my phone turned off, **except for texting**. This means if you need to get ahold of me & I'm not working, you'll have to text or call.
 
-More recently, I've been influenced by **Melissa Creger** and **Ashleigh Reeker**. Melissa was a salesperson that I teamed up with to try and sell services at a consulting company. In some ways, we were the perfect pair. I brought technical knowledge, and she brought people & sales knowledge. From her I learned **about how to connect with clients and understand what it is they're really after.** And Ashleigh was a program manager at that same company. We talked quite a bit, mostly about personnel issues, and team health. **She really helped me understand not just 1-on-1 dynamics but organizational dynamics.** 
+If it's while I'm working I'm responsive on **slack**.
 
-### Strengths
+I keep my calendar up-to-date, including non-work related things. So if you ever want to set up a meeting with me, you don't have to ask just throw it on the calendar. 
 
-I think the above stories (and the countless others I left out) help illustrate one of my strengths: **connectedness.** In fact, my top 5 strengths according to Gallup's Strengthsfinder are:
+If my calendar is full and you need to chat, let me know and **I'll move something** around for you.
 
-1. Harmony — I look for consensus. I don't like conflict, I prefer agreement.
-2. Restorative — I want to figure out what's wrong and fix it, or "restore" it back to how it "should" be
-3. Learner — I enjoy learning. I'm more of a broad learner than a deep learner. By that, I mean I find a lot of topics interesting. But I'm not your guy if you want to understand the ins-and-outs of something super deep. Don't expect me to explain the JS event loop to you, but know that I know that there is one 😉
-4. Input — I like to collect information. In fact, Gallup says I "have a need to collect and archive. They may accumulate information, ideas, artifacts or even relationships."
-5. Connectedness — I see links between things. I don't think there's coincidences. I could talk to you for hours about how my life has been shaped by providence.  I think this is part of why I said I'm not a deep learner on #3. I like to learn about various topics and I will likely find a connection to something else.
+What about your availability? I recognize that we might work different hours. I will try very hard to not bother you during non-working hours. If I send a message to you during that time and **do not explicitly state I need a response**, then I'm not expecting a response until you're working again.
 
-### Communication
+I might also (lovingly) call you on it if you do respond outside of hours. You really do have my permission to ignore me if you're not working.
 
-As far as communication goes, I find it rare that a gif won't do the job.
+# One-on-Ones
 
-Although, if that were true, this wouldn't be in text form but would be a series of giphies 🤷
+---
 
-About the only kind of communication I don't like is a phone call. Video calls are great, slack is great, email is great, texting is great, sharing Instagram reels via DM is great (it's the primary form of communication for my daughter and me.)
+I'm a firm believer in 1-on-1s. I think it's a great chance for us to connect regularly and discuss things that are on your mind, or things that might be happening around you. That said, I leave the definition of "regular" largely up to you. I'll own scheduling the meeting (see Misc & Quirks below for why), but I'll set up the frequency and duration based on what you want.
 
-More importantly than the method of communication is the act of communicating. Communication is a loop. That means simply speaking (or typing) isn't communication. It needs to be received by the other person as well. 
+It's important to note that these are **not** status meetings. I'm not looking for specific tasks you did, unless you want to talk about that. 
 
-### My Job
+I **do** want to know how you're doing, and I want to know if there's anything I can do to **help you**. 
 
-- Advocate — I want to help you be **as successful as you want to be**. Success means different things to different people, and it even means different things for the same person at different points of their life. I won't prescribe what success is for you. But once I know what is meaningful for you, I'll advocate for you. I'll let you know about opportunities and I'll do my best to make connections for you to other people.
-- Contextualizer — There's a lot happening on your project, and in the company, and in your life. I can't do much about the latter, but the first two I will work hard to make sure you've got the context you need. That might mean working with someone from product to understand the roadmap, or it might mean searching down answers for why a particular business decision was made. But I'm a firm believer that people work well when they have context, and so I want to help provide that for you.
-- Sounding board — Whether it's a technical conversation or a team dynamic, I'd love to hear your ideas.
+What you want to talk about is more important than anything I have
 
-### Things I hate
+# My motivations
 
-- Open door policies
-- People as "resources"
+---
 
-[Working with Nate Taylor](https://www.notion.so/Working-with-Nate-Taylor-b23f1f9e965d4e4bbc2221cf93afbfa1)
+I want to give you a bit of glimpse into who I am so you have a bit of an understanding. I **do not** expect this to be a replacement to conversations we'll have going forward, but instead just a little background information or character development.
+
+I'm motivated to do my job well because I believe work is an act of worship, and I want to glorify Christ in how I work.
+
+I'm also motivated by my past experiences in my career, both good and bad. I want to take the positive things, the way people have impacted me and use them for good. I want to take the things that haven't been good and either eliminate them or avoid them. For example, I've seen "open door policies" weaponized, and I don't want to pass that on to you.
+
+Finally, I'm motivated by the fact that engineering can change lives and I think where I can have the most impact is by helping others make real change. That is, I want to see **you be as successful as you want to be**. And that's a thought we can unpack over time.
+
+# My Strengths
+
+---
+
+As I said earlier, we're both real people with real lives. That means I've got some strengths, and also some things I'm working on. To start, I like how the Gallup Strength Finder defined my strengths. I don't know my Meyers Briggs acronym. I do know I'm an enneagram 9, although if I'm honest I'm not entirely sure what that means.
+
+My **number one** strength, according to Gallup is `Harmony`. This means I look for consensus. I don't like conflict (and sometimes that's a weakness.) I'm going to look for ways that we can come to a consensus. 
+
+I'm also `Restorative`. This means that I like to figure out what's wrong and fix it, or restore it back to how it "should" be. This can be a major source of frustration for me if I either can't identify the source of the error, or am unable to fix it.
+
+Another strength is that I'm a `Learner`. I enjoy learning...a lot. I'm more of a broad learner than a deep learner.  By that, I mean I have books on my shelves for theology, psychology, economics, physics, history, etc. But I don't think I'm an expert on any of them.
+
+The next strength they identified is `Input`. I like to collect information. In fact, Gallup says I "have a need to collect and archive. They may accumulate information, ideas, artifacts or even relationships." I don't collect relationships, but information and ideas for sure.
+
+The final one of my top 5 is, perhaps, my favorite, and that is `Connectedness`. I see links between topics, maybe unusual links, but I think this plays in to my broad based learning. I like to learn about various topics and I will likely find a connection to something else. 
+
+While Gallup didn't test for this, I'd say sarcasm and dry humor might be a strength as well. Although my wife would disagree with both 🤷
+
+# What I'm Working On
+
+---
+
+Ok so those are my strengths, what am I working on right now? I'm working on **understanding emotions**. Which is a little vague. I understand what happy means, and what angry means. And I don't mean I'm trying to understand the source of emotions (although that might be cool to learn.) I'm more working on trying to understand what am I actually feeling and what are you actually feeling. I've found the `Mood Meter` that Marc Brackett developed and discussed in his book Permission to Feel to be quite helpful. It asks 2 questions, 1) Are you high or low energy? 2) Are you high or low pleasantness? And from there you can identify the quadrant you're in.
+
+Something else I'm trying to get better at is not saying "you guys." A couple years ago I worked really hard to eliminate "obviously" from my teaching & public speaking, but eliminating "you guys" has been much harder. 
+
+# Miscellanies and Quirks
+
+---
+
+We're almost over, I promise. I wanted to share a couple of my quirks or things I want you to know about me.
+
+First, I believe in the power of narrative and will likely illustrate my point via story, as you can probably tell from the rest of this readme 🤣.
+
+Next, my humor is dry. So dry it's been described by a former coworker as "Sahara dry". This has caused problems for me in the past, particularly in Slack and other text based formats, because I've said something to be funny and it might not have been taken that way. I'm trying to not make that same mistake.
+
+Speaking of humor, my wife describes me as "Not funny". And I'm ok if you think my wife is right.
+
+I love animated gifs (hard g btw).
+
+This one is important, I really don't like when people place the burden where it shouldn't be. This could be an entire ~~manifesto~~ soap box for me. But perhaps nothing demonstrates this better than **open door policies**. I believe they're well intentioned, allowing anyone to come talk to you whenever. In reality, though, I've seen them abused way too often, and not by the employee, but by the boss. Too often they believe that because they have an open door policy, they don't need to reach out to anyone, and that if there was anything important, people would bring it to them. I didn't like that for me and I don't like that for you. I firmly believe it's more of **my** responsibility to make sure we're communicating. It's why I said I'll own the invite to the 1:1s, because I don't want you feeling like there's one more thing you have to do.
+
+So that I don't end on that note, one final quirk is that when I eat candy like M&Ms or Skittles (green should be lime not apple, btw) I used to have to eat in even numbers. That is I had to have 2 M&Ms or 4 Skittles, and yes, I've bitten one in half before to make it even. I don't do that as much anymore.
