@@ -18,11 +18,11 @@ My final presupposition isn't so much a presupposition as it is a fact: **I will
 
 Availability is an important topic, even more so as the industry shifts to various working situations (remote, hybrid, in office, etc).
 
-**I typically work from about 8am to about 5pm Central time**. I'm getting much better at leaving work when I leave work. 
+**I typically work from ~8:30am to ~5pm Central time**. I'm getting much better at leaving work when I leave work. 
 
 I have notifications on my phone turned off, **except for texting**. This means if you need to get ahold of me & I'm not working, you'll have to text or call.
 
-If it's while I'm working I'm responsive on **slack**.
+If it's while I'm working I'm pretty responsive on **Teams**. I can be responsive to email, but after years of working at places where email was deprioritized, Teams is your better bet.
 
 I keep my calendar up-to-date, including non-work related things. So if you ever want to set up a meeting with me, you don't have to ask just throw it on the calendar. 
 
@@ -37,11 +37,11 @@ I might also (lovingly) call you on it if you do respond outside of hours. You r
 
 I'm a firm believer in 1-on-1s. I think it's a great chance for us to connect regularly and discuss things that are on your mind, or things that might be happening around you. That said, I leave the definition of "regular" largely up to you. I'll own scheduling the meeting (see Misc & Quirks below for why), but I'll set up the frequency and duration based on what you want.
 
-It's important to note that these are **not** status meetings. I'm not looking for specific tasks you did, unless you want to talk about that. 
+It's important to note that these are **not** status meetings. I'm not looking for specific tasks you did, unless you want to talk about that.
 
 I **do** want to know how you're doing, and I want to know if there's anything I can do to **help you**. 
 
-What you want to talk about is more important than anything I have
+What you want to talk about is more important than anything I have, so we'll cover your agenda items first, if there's time left over, we can cover anything I have on the list.
 
 # My motivations
 
@@ -73,10 +73,11 @@ While Gallup didn't test for this, I'd say sarcasm and dry humor might be a stre
 
 # What I'm Working On
 
+Ok so those are my strengths, what am I working on right now? One thing I'm working on is getting the right balance of `trust but verify`.  I tend to err on the side of blindly trusting, and that's had a couple blow-backs, particularly when it comes to work that did (or did not) get done.
 
-Ok so those are my strengths, what am I working on right now? I'm working on **understanding emotions**. Which is a little vague. I understand what happy means, and what angry means. And I don't mean I'm trying to understand the source of emotions (although that might be cool to learn.) I'm more working on trying to understand what am I actually feeling and what are you actually feeling. I've found the `Mood Meter` that Marc Brackett developed and discussed in his book Permission to Feel to be quite helpful. It asks 2 questions, 1) Are you high or low energy? 2) Are you high or low pleasantness? And from there you can identify the quadrant you're in.
+Along those lines I'm also working on the balance between giving individuals freedom to make their own mistakes and making sure that I can help the team avoid big pitfalls.
 
-Something else I'm trying to get better at is not saying "you guys." A couple years ago I worked really hard to eliminate "obviously" from my teaching & public speaking, but eliminating "you guys" has been much harder. 
+With both of these, the key is balance (which I guess makes sense with that `harmony` strength up above). 
 
 # Miscellanies and Quirks
 
