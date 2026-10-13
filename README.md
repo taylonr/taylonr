@@ -35,31 +35,30 @@ I might also (lovingly) call you on it if you do respond outside of hours. You r
 # One-on-Ones
 
 
-I'm a firm believer in 1-on-1s. I think it's a great chance for us to connect regularly and discuss things that are on your mind, or things that might be happening around you. That said, I leave the definition of "regular" largely up to you. I'll own scheduling the meeting (see Misc & Quirks below for why), but I'll set up the frequency and duration based on what you want.
+I'm a firm believer in 1-on-1s. I think it's a great chance for us to connect regularly and discuss things that are on your mind, or things that might be happening around you. I'll own scheduling the meeting (see Misc & Quirks below for why).
 
-It's important to note that these are **not** status meetings. I'm not looking for specific tasks you did, unless you want to talk about that.
+I think 1:1s are **more** than status meetings. There will be times and projects where a 1:1 is our best chance to share an update, but if that's all we're doing, we're wasting time. Updates can come in so many other forms such as a Teams message, or a Jira board.
 
 I **do** want to know how you're doing, and I want to know if there's anything I can do to **help you**. 
 
-What you want to talk about is more important than anything I have, so we'll cover your agenda items first, if there's time left over, we can cover anything I have on the list.
+What you want to talk about will take priority over my items, so we'll cover your agenda items first, if there's time left over, we can cover anything I have on the list. If there's things I need to talk to you about, but we ran out of time, I'll find another way to connect on that.
 
 # My motivations
 
-
 I want to give you a bit of glimpse into who I am so you have a bit of an understanding. I **do not** expect this to be a replacement to conversations we'll have going forward, but instead just a little background information or character development.
 
-I'm motivated to do my job well because I believe work is an act of worship, and I want to glorify Christ in how I work.
+I'm motivated to do my job well because I believe work one way for me to love my neighbor.
 
 I'm also motivated by my past experiences in my career, both good and bad. I want to take the positive things, the way people have impacted me and use them for good. I want to take the things that haven't been good and either eliminate them or avoid them. For example, I've seen "open door policies" weaponized, and I don't want to pass that on to you.
 
-Finally, I'm motivated by the fact that engineering can change lives and I think where I can have the most impact is by helping others make real change. That is, I want to see **you be as successful as you want to be**. And that's a thought we can unpack over time.
+Finally, I'm motivated by the fact that engineering can change lives and I think where I can have the most impact is by helping others make real change. That is, I want to see **you be as successful as you want to be, in the way you want**. And that's a thought we can unpack over time.
 
 # My Strengths
 
 
 As I said earlier, we're both real people with real lives. That means I've got some strengths, and also some things I'm working on. To start, I like how the Gallup Strength Finder defined my strengths. I don't know my Meyers Briggs acronym. I do know I'm an enneagram 9, although if I'm honest I'm not entirely sure what that means.
 
-My **number one** strength, according to Gallup is `Harmony`. This means I look for consensus. I don't like conflict (and sometimes that's a weakness.) I'm going to look for ways that we can come to a consensus. 
+My **number one** strength, according to Gallup is `Harmony`. This means I look for consensus. I don't like conflict (and sometimes that's a weakness). I'm going to look for ways that we can come to a consensus. 
 
 I'm also `Restorative`. This means that I like to figure out what's wrong and fix it, or restore it back to how it "should" be. This can be a major source of frustration for me if I either can't identify the source of the error, or am unable to fix it.
 
@@ -69,7 +68,9 @@ The next strength they identified is `Input`. I like to collect information. In 
 
 The final one of my top 5 is, perhaps, my favorite, and that is `Connectedness`. I see links between topics, maybe unusual links, but I think this plays in to my broad based learning. I like to learn about various topics and I will likely find a connection to something else. 
 
-While Gallup didn't test for this, I'd say sarcasm and dry humor might be a strength as well. Although my wife would disagree with both 🤷
+Beyond Gallup, another pseudo-science assessment is the [Working Genius](https://www.workinggenius.com/?gad_source=1&gad_campaignid=21520445429&gbraid=0AAAAAD4dDHQEUTVaCkAOgc3UgKMilGn_D&gclid=EAIaIQobChMIpdbj88y3lwMVnJHCCB2ePDi5EAAYASAAEgJnHvD_BwE) which says each of us has 2 geniuses, 2 competencies and 2 frustrations. My geniuses are Discernment and Invention, which means I take joy in using my instincts to assess plans and ideas, and that I like providing novel solutions to problems.
+
+While Gallup and WorkingGenius didn't test for this, I'd say sarcasm and dry humor might be a strength as well. Although my wife would disagree with both 🤷
 
 # What I'm Working On
 
@@ -86,7 +87,7 @@ We're almost over, I promise. I wanted to share a couple of my quirks or things 
 
 First, I believe in the power of narrative and will likely illustrate my point via story, as you can probably tell from the rest of this readme 🤣.
 
-Next, my humor is dry. So dry it's been described by a former coworker as "Sahara dry". This has caused problems for me in the past, particularly in Slack and other text based formats, because I've said something to be funny and it might not have been taken that way. I'm trying to not make that same mistake.
+Next, my humor is dry. So dry it's been described by a former coworker as "Sahara dry". This has caused problems for me in the past, particularly in Slack, Teams and other text based formats, because I've said something to be funny and it might not have been taken that way. I'm trying to not make that same mistake. (Side note, I realized that I got a lot funnier once I started having direct reports 🤷‍♂️)
 
 Speaking of humor, my wife describes me as "Not funny". And I'm ok if you think my wife is right.
 
